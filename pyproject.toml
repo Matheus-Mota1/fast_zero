@@ -38,6 +38,7 @@ ruff = "^0.5.7"
 pytest = "^8.3.2"
 pytest-cov = "^5.0.0"
 taskipy = "^1.13.0"
+httpie = "^3.2.3"
 
 [build-system]
 requires = ["poetry-core"]
